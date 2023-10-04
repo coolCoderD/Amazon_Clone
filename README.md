@@ -1,1 +1,1 @@
-# Amazon_Clone
+# Amazon_Clone made using html and css
